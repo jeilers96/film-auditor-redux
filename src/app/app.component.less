@@ -1,0 +1,93 @@
+@import "../styles/colors.less";
+@import "../styles/breakpoints.less";
+.main-container {
+  display: grid;
+  grid-template:
+    "header"
+    "nav"
+    "main"
+    "footer";
+    grid-template-rows: 10% 8% auto 6%;
+    height: 100vh;
+
+  @media @phone {
+    grid-template-rows: 13% 8% auto 6%;
+  }
+
+  @media @desktop {
+    grid-template:
+      "header nav"
+      "main main"
+      "footer footer";
+      grid-template-columns: 33rem auto;
+      grid-template-rows: 13% auto 6%;
+  }
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-area: header;
+  background-color: white;
+}
+
+nav {
+  grid-area: nav;
+  background-color: white;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    color: darkslategrey;
+    text-decoration: none;
+    padding: 0rem 0.5rem;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  @media @desktop {
+    justify-content: flex-start;
+  }
+}
+
+main {
+  grid-area: main;
+  background-color: #eeeeee;
+}
+
+footer {
+  grid-area: footer;
+  background-color: @footer-color;
+}
+
+.title {
+    width: 90%;
+
+    @media @phone {
+        width: 73%;
+    }
+
+    @media @tablet {
+        width: 19rem;
+    }
+}
+
+.logo {
+  display: none;
+  @media @phone {
+    display: initial;
+    width: 17%;
+    padding-right: 1rem;
+  }
+  @media @tablet {
+    display: initial;
+    width: 4rem;
+  }
+}
+
+nav a.active-link {
+  text-decoration: underline;
+}
