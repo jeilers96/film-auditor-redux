@@ -4,26 +4,24 @@ import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-carousel',
   template: `
-    <div class="carousel-container">
-      <ng-container *ngFor="let slide of slides">
-        <div *ngIf="slide.id == slideIndex">
-          <img [src]="slide.image">
-          <div>
-            <h2>{{slide.name}}</h2>
-            {{slide.description}}
-          </div>
+    <ng-container *ngFor="let slide of slides">
+      <div *ngIf="slide.id == slideIndex">
+        <img [src]="slide.image">
+        <div class="slide-info">
+          <h2>{{slide.name}}</h2>
+          {{slide.description}}
         </div>
-      </ng-container>
-      <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
-      <a class="next" (click)="plusSlides(1)">&#10095;</a>
-    </div>
+      </div>
+    </ng-container>
+    <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
+    <a class="next" (click)="plusSlides(1)">&#10095;</a>
   `,
   styleUrls: ['./carousel.component.less']
 })
 export class CarouselComponent implements OnInit {
 
-  slides: CarouselSlide[];
-  slideIndex: integer;
+  slides:  Observable<Array<CarouselSlide>>;
+  slideIndex: number;
 
   constructor(private http: HttpClient) { }
 
@@ -36,7 +34,7 @@ export class CarouselComponent implements OnInit {
     this.slideIndex = 1;
   }
 
-  plusSlides(slideVariation: integer) {
+  plusSlides(slideVariation: number) {
     const slideMod = slideVariation + this.slideIndex;
 
     if(slideMod < 1) {
