@@ -1,0 +1,148 @@
+[   {
+        "id": 1,
+        "name": "Understanding Choices in Memento Using Kantian Ethics",
+        "image": "https://image.tmdb.org/t/p/original/xIl2DJdCmeoxKDHrbLQnty9H5H5.jpg",
+        "description": "In this Analysis I discuss how one can apply Kantian Ethics to better understand the decisions characters made in the film Memento.",
+        "date": "January 10, 2018"
+    },
+    {
+        "id": 2,
+        "name": "Using Utilitarianism to Understand Edge of Tomorrow",
+        "image": "https://image.tmdb.org/t/p/original/7mgKeg18Qml5nJQa56RBZO7dIu0.jpg",
+        "description": "In this Analysis I discuss how you can use utilitarianism to understand the decisions characters made in the film Edge of Tomorrow.",
+        "date": "January 17, 2018"
+    },
+    {
+        "id": 3,
+        "name": "My Rating System",
+        "image": "https://image.tmdb.org/t/p/original/ugFOHcNFJ45ZQa8bfjrSQBHUnHS.jpg",
+        "description": "I think that in order to be a successful movie reviewer, one needs a standard rating system to convey their opinion. This is my rating system.",
+        "date": "January 25, 2018"
+    },
+    {
+        "id": 4,
+        "name": "Week One of the \"Oscar Death Race\" Challenge",
+        "image": "https://image.tmdb.org/t/p/original/yK20evDYkI4ET0EY2fIsKsNF6Ip.jpg",
+        "description": "Oscar season has begun, and I am on a mission to watch as many nominees as I can this year. Read about my thoughts on the films I saw in the first week.",
+        "date": "January 31, 2018"
+    },
+    {
+        "id": 5,
+        "name": "Week Two of the Oscar Death Race",
+        "image": "https://image.tmdb.org/t/p/original/fYI8WX2DquAHMqwh5mOMxc6RU5j.jpg",
+        "description": "As I continue on my journey to complete the Oscar Death Race, here are my thoughts on the Oscar nominated films I saw this week.",
+        "date": "February 7, 2018"
+    },
+    {
+        "id": 6,
+        "name": "Weeks Three and Four of the Oscar Death Race",
+        "image": "https://image.tmdb.org/t/p/original/adFgBkl35kdI0bSrWZO2xury1JB.jpg",
+        "description": "I was very busy with homework the past few weeks, but I did see a few oscar nominated films. Here are my thoughts.",
+        "date": "February 28, 2018"
+    },
+    {
+        "id": 7,
+        "name": "My Picks For the 90th Academy Awards",
+        "image": "https://image.tmdb.org/t/p/original/bAISaVhsaoyyQMZ55cpTwCdzek4.jpg",
+        "description": "These are my opinions on who should win at the 90th Academy Awards for each category.",
+        "date": "March 4, 2018"
+    },
+    {
+        "id": 8,
+        "name": "The Princess Bride Review",
+        "image": "https://image.tmdb.org/t/p/original/npIKgqpD8jbowpem9L3U4NUkEO3.jpg",
+        "description": "Even after 30 years the silly adventure story, The Princess Bride, still is just as charming as it was when it first released.",
+        "date": "March 26, 2018"
+    },
+    {
+        "id": 9,
+        "name": "Ready Player One Review",
+        "image": "https://image.tmdb.org/t/p/original/xkNhv52U8LSFQe5fUCAiou1JT2J.jpg",
+        "description": "Spielberg creates another exciting adventure movie with Ready Player One: a video game movie soaked in nostalgia.",
+        "date": "April 1, 2018"
+    },
+    {
+        "id": 10,
+        "name": "A Quiet Place Review",
+        "image": "https://image.tmdb.org/t/p/original/nIrDm42dy5PaXtUAzUfPmxM4mQm.jpg",
+        "description": "A Quiet Place provides a suspenseful experience with it's usage of sound and the lack thereof.",
+        "date": "April 21, 2018"
+    },
+    {
+        "id": 11,
+        "name": "Spiderman: Homecoming Review",
+        "image": "https://image.tmdb.org/t/p/original/b5EhDAly33c6Allclns7u22hHUb.jpg",
+        "description": "Spiderman: Homecoming is surprisingly fun, but not free of issues.",
+        "date": "May 14, 2018"
+    },
+    {
+        "id": 12,
+        "name": "Solo: A Star Wars Story Review",
+        "image": "https://image.tmdb.org/t/p/original/y9jGaGNn1dQDhPkhMumXaLize73.jpg",
+        "description": "The newest movie in the Star Wars story, Solo: A Star Wars Story exceeds expectations, but feels somewhat unnessary.",
+        "date": "May 31, 2018"
+    },
+    {
+        "id": 13,
+        "name": "Hereditary Review",
+        "image": "https://image.tmdb.org/t/p/original/3z0oRN1qKDIB5puUtSaFs3pJO4V.jpg",
+        "description": "Hereditary is a film full of emotional and psychological horror that feels straight out of the 1970s.",
+        "date": "June 15, 2018"
+    },
+    {
+          "id": 14,
+          "name": "Swiss Army Man Review",
+          "image": "https://image.tmdb.org/t/p/original/5X3Jc7EN4cQveQhbt0JUsD13jDp.jpg",
+          "description": "Swiss Army Man is an incredibly original and underated film with a heartwarming premise.",
+          "date": "July 10, 2018"
+    },
+    {
+        "id": 15,
+        "name": "Mama Mia! Here We Go Again Review",
+        "image": "https://image.tmdb.org/t/p/original/kAErJpVU4ul9R3VzroM8awWrlT2.jpg",
+        "description": "Mama Mia! Here We Go Again is full of ABBA songs and absolutely no plot.",
+        "date": "July 23, 2018"
+    },
+    {
+          "id": 16,
+          "name": "Hachi: A Dog's Tale Review",
+          "image": "https://image.tmdb.org/t/p/original/rDAbbbZVTKdVmXRjE75SxKr5Ali.jpg",
+          "description": "Hachi: A Dog's Tale is very highly rated on IMDb, but does it live up to its score?",
+          "date": "August 20, 2018"
+    },
+    {
+        "id": 17,
+        "name": "The BFG Review",
+        "image": "https://image.tmdb.org/t/p/original/eYT9XQBo1eC4DwPYqhCol0dFFc2.jpg",
+        "description": "I had high hopes for The BFG, but was it any good?",
+        "date": "September 18, 2018"
+    },
+    {
+        "id": 18,
+        "name": "First Man Review",
+        "image": "https://image.tmdb.org/t/p/original/z1FkoHO7bz40S4JiptWHSYoPpxq.jpg",
+        "description": "Damien  Chazelle tells a fantastic story in his most recent film, First Man.",
+        "date": "October 20, 2018"
+    },
+    {
+        "id": 19,
+        "name": "Oscar Death Race: Week One 2019",
+        "image": "https://image.tmdb.org/t/p/original/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+        "description": "Oscar Season has begun again, here are my thoughts on Bohemian Rhapsody, Roma, The Wife, and more.",
+        "date": "January 27, 2019"
+    },
+    {
+        "id": 20,
+        "name": "My Picks For the 91st Academy Awards",
+        "image": "https://image.tmdb.org/t/p/original/3mkFhtUjBMWF4FHi6c1XrYWjV5z.jpg",
+        "description": "I discuss who I think should win at the 91st Academy Awards for each category.",
+        "date": "February 24, 2019"
+    },
+    {
+        "id": 21,
+        "name": "Us Review",
+        "image": "https://image.tmdb.org/t/p/original/jNUCddkM1fjYcFIcEwFjc7s2H4V.jpg",
+        "description": "I was very excited to see Jordan Peele's sophomore film, but did it live up to my expectations.",
+        "date": "March 21, 2019"
+    }
+]

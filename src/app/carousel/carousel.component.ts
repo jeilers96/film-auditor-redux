@@ -1,26 +1,29 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-carousel',
   template: `
+  <div class="carousel-container">
     <ng-container *ngFor="let slide of slides">
       <div *ngIf="slide.id == slideIndex">
         <img [src]="slide.image">
         <div class="slide-info">
           <h2>{{slide.name}}</h2>
-          {{slide.description}}
+          <span class="slide-desc">{{slide.description}}</span>
         </div>
       </div>
     </ng-container>
     <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
     <a class="next" (click)="plusSlides(1)">&#10095;</a>
+  </div>
   `,
   styleUrls: ['./carousel.component.less']
 })
 export class CarouselComponent implements OnInit {
 
-  slides:  Observable<Array<CarouselSlide>>;
+  slides:  any;
   slideIndex: number;
 
   constructor(private http: HttpClient) { }
@@ -28,7 +31,6 @@ export class CarouselComponent implements OnInit {
   ngOnInit() {
     this.http.get('../assets/carousel.json')
       .subscribe(data => {
-        console.log(data)
         this.slides = data;
     });
     this.slideIndex = 1;
@@ -45,11 +47,4 @@ export class CarouselComponent implements OnInit {
       this.slideIndex = slideVariation + this.slideIndex;
     }
   }
-}
-
-class CarouselSlide {
-  id: string;
-  name: string;
-  image: string;
-  description: string;
 }

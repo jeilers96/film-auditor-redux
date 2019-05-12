@@ -1,15 +1,17 @@
 <div class="main-container">
-  <header>
-    <img class="logo" src="assets/img/logo.png">
-    <img class="title" src="assets/img/film_auditor_redux_logo.png">
-  </header>
-  <nav>
-    <a  routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{ exact: true }">Home</a>
-    <a routerLink="/about" routerLinkActive="active-link">About</a>
-    <a routerLink="/contact" routerLinkActive="active-link">Contact</a>
-  </nav>
+  <div class="top-container">
+    <header>
+      <img class="logo" src="assets/img/logo.png">
+      <img class="title" src="assets/img/film_auditor_redux_logo.png">
+    </header>
+    <nav>
+      <a  routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{ exact: true }">Home</a>
+      <a routerLink="/about" routerLinkActive="active-link">About</a>
+      <a routerLink="/contact" routerLinkActive="active-link">Contact</a>
+    </nav>
+  </div>
   <main>
     <router-outlet></router-outlet>
   </main>
-  <footer></footer>
 </div>
+<footer>Created By: Josh Eilers</footer>

@@ -1,8 +1,88 @@
-.home-body {
+@import "../../styles/breakpoints.less";
+@import "../../styles/colors.less";
+
+.sidecard-img {
+  width: 20rem;
+  margin: 1rem;
+  display: block;
 }
 
-.carousel-container {
-  max-width: 50rem;
+.side-card {
+    position: relative;
+    text-align: center;
+}
+
+.side-info {
+  position: absolute;
+  bottom: 0.5rem;
+  left: 1.625rem;
+  background: rgba(16,16,16,.75);
+  color: white;
+  padding: 0.75rem;
+
+  h2 {
+    margin: 0;
+  }
+}
+
+.side-cards {
+  display: none;
+
+  @media @wide-screen {
+    display: block;
+  }
+}
+
+.home-top {
+  display: flex;
+  @media @tablet {
+    padding: 1rem;
+    background-color: grey;
+    justify-content: center;
+  }
+}
+
+.blogs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1200px;
   margin: auto;
-  position: relative;
+}
+
+.card {
+  width: 15rem;
+  box-shadow: 0 2px 1px -1px rgba(0,0,0,.2),
+  0 1px 1px 0 rgba(0,0,0,.14),
+  0 1px 3px 0 rgba(0,0,0,.12);
+  background-color: white;
+  margin: 1rem;
+
+  &:hover {
+    box-shadow: 0 15px 21px 0 rgba(0,0,0,0.3);
+  }
+
+  h2 {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+  }
+
+  @media @tablet {
+    width: 23rem;
+  }
+}
+
+.card-footer {
+  padding: 0.25rem 1rem;
+}
+
+.card-header {
+  background-color: #101010;
+  color: white;
+  padding: 0.5rem 1rem;
+  font-size: 0.8125rem;
+}
+.tile-link {
+	text-decoration: none;
+	color: @font-color;
 }

@@ -1,0 +1,13 @@
+[{
+        "id": 1,
+        "name": "My Top 10 of 2018",
+        "image": "https://image.tmdb.org/t/p/original/lQaT3rVXshsNNMhGFL8XJEZK51V.jpg",
+        "description": "A list of my personal favorite films from 2018."
+    },
+    {
+        "id": 2,
+        "name": "My Bottom 5 of 2018",
+        "image": "https://image.tmdb.org/t/p/original/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+        "description": "These are the films I wish I would have skipped in 2018."
+    }
+]

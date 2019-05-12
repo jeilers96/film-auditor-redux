@@ -1,46 +1,24 @@
 @import "../styles/colors.less";
 @import "../styles/breakpoints.less";
 .main-container {
-  display: grid;
-  grid-template:
-    "header"
-    "nav"
-    "main"
-    "footer";
-  grid-template-rows: 10% 8% auto 6%;
-  height: 100vh;
-
-  @media @phone {
-    grid-template-rows: 13% 8% auto 6%;
-  }
-
-  @media @desktop {
-    grid-template:
-      "header nav"
-      "main main"
-      "footer footer";
-      grid-template-columns: 33rem auto;
-      grid-template-rows: 13% auto 6%;
-  }
+  min-height: calc(100vh - 70px);
 }
 
 header {
   display: flex;
   justify-content: center;
   align-items: center;
-  grid-area: header;
   background-color: white;
 }
 
 nav {
-  grid-area: nav;
   background-color: white;
   text-transform: uppercase;
   display: flex;
   justify-content: center;
   align-items: center;
   a {
-    color: darkslategrey;
+    color: @font-color;
     text-decoration: none;
     padding: 0rem 0.5rem;
     &:hover {
@@ -53,14 +31,12 @@ nav {
   }
 }
 
-main {
-  grid-area: main;
-  background-color: #eeeeee;
-}
-
 footer {
-  grid-area: footer;
   background-color: @footer-color;
+  height: 50px;
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
 }
 
 .title {
@@ -90,4 +66,12 @@ footer {
 
 nav a.active-link {
   text-decoration: underline;
+}
+
+.top-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 5rem;
+  background-color: white;
 }

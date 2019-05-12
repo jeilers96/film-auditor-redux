@@ -1,0 +1,40 @@
+@import "../../styles/breakpoints.less";
+
+.about-me {
+  width: 65%;
+  margin: 3rem auto 1rem auto;
+  background: white;
+  padding: 2rem;
+}
+
+.about-info {
+
+  @media @wide-screen {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+  }
+}
+
+.headshot {
+  width: 11rem;
+  display: block;
+  margin: auto;
+
+  @media @tablet {
+    width: 13rem;
+  }
+
+  @media @wide-screen {
+    width: 16rem;
+    margin: 2rem;
+  }
+}
+
+h1 {
+  text-align: center;
+
+  @media @wide-screen {
+    text-align: inherit;
+  }
+}

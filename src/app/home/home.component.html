@@ -1,9 +1,25 @@
-<div class="home-body">
-  <div class="carousel-container">
-    <app-carousel></app-carousel>
+<div class= "home-top">
+  <app-carousel></app-carousel>
+  <div class="side-cards">
+    <div *ngFor="let card of sideCards" class="side-card">
+        <img [src]="card.image" class="sidecard-img">
+        <div class="side-info">
+          <h2>{{card.name}}</h2>
+        </div>
+    </div>
   </div>
-  <nav>
-  </nav>
-  <div class="blogs">
-  </div>
+</div>
+<div class="blogs">
+  <ng-container *ngFor="let blog of blogs">
+    <a href="" class="tile-link">
+    	<div class="card">
+    		<div class="card-header">{{blog.date}}</div>
+      	<img [src]="blog.image" style="width:100%">
+      	<div class="card-footer">
+    		  <h2>{{blog.name}}</h2>
+    		  <p>{{blog.description}}</p>
+    	  </div>
+    	</div>
+    </a>
+  </ng-container>
 </div>
