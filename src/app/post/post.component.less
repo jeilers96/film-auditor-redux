@@ -1,0 +1,75 @@
+@import "../../styles/breakpoints.less";
+
+.blog-page {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.post {
+    width: 65%;
+    background-color: white;
+    padding: 2rem;
+    margin: 2rem auto;
+
+    @media @desktop {
+        width: 55%;
+    }
+
+    img {
+        width: 100%;
+    }
+}
+
+.rec-img {
+    width: 100%;
+    margin: 1rem auto;
+    display: block;
+
+    @media @tablet {
+        width: 20rem;
+    }
+}
+
+.rec-info {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 2.825rem;
+    background: rgba(16,16,16,.75);
+    color: white;
+    padding: 0.75rem;
+  
+    h3 {
+      margin: 0;
+      font-size: 1rem;
+    }
+}
+
+.side-card {
+    position: relative;
+    text-align: center;
+}
+
+.sidebar-box {
+    background-color: white;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.sidebar {
+    margin: auto;
+
+    @media @wide-screen {
+        margin: initial;
+    }
+}
+.logo {
+    display: initial;
+    padding: 0.5rem 0.5rem;
+}
+
+.follow-me {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

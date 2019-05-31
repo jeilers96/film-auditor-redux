@@ -1,5 +1,30 @@
+@import "styles/breakpoints.less";
+
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
   background-color: #eeeeee;
+}
+
+.imdb-logo {
+  width: 5rem;
+}
+
+.letterboxd-logo {
+  width: 11rem;
+  padding: 0.5rem 0;
+}
+
+.youtube-logo {
+  width: 6rem;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  padding: 0.5rem 0;
+
+  @media @desktop {
+    margin: inherit;
+  }
 }

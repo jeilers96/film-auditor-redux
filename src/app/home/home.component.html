@@ -11,7 +11,7 @@
 </div>
 <div class="blogs">
   <ng-container *ngFor="let blog of blogs">
-    <a href="" class="tile-link">
+    <a href="/post/{{blog.id}}" class="tile-link">
     	<div class="card">
     		<div class="card-header">{{blog.date}}</div>
       	<img [src]="blog.image" style="width:100%">
