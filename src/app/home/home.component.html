@@ -2,10 +2,12 @@
   <app-carousel></app-carousel>
   <div class="side-cards">
     <div *ngFor="let card of sideCards" class="side-card">
-        <img [src]="card.image" class="sidecard-img">
-        <div class="side-info">
-          <h2>{{card.name}}</h2>
-        </div>
+        <a href="/post/{{card.link}}">
+          <img [src]="card.image" class="sidecard-img">
+          <div class="side-info">
+            <h2>{{card.name}}</h2>
+          </div>
+        </a>
     </div>
   </div>
 </div>

@@ -72,4 +72,4 @@ The film about designing dresses is an easy pick for best Costume Design. The dr
 ### Visual Effects – Star Wars: The Last Jedi ###
 Unfortunately, I didn't get to see the two front runners in this category: Blade Runner 2049 and War for the Planet of the Apes. Out of the three nominations I saw, the most visually pleasing film was Star Wars: The Last Jedi.
 
-Those are my opinions on who I think deserves the win for each Oscar category. I would love to hear what your picks are or what you thought of mine. If you want to discuss please visit the contact page. I am very excited for the 90th Academy Awards tonight, and I hope everyone has a fun time watching. Happy Oscars!
+Those are my opinions on who I think deserves the win for each Oscar category. I am very excited for the 90th Academy Awards tonight, and I hope everyone has a fun time watching. Happy Oscars!

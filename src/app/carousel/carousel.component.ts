@@ -7,13 +7,15 @@ import { Observable } from 'rxjs';
   template: `
   <div class="carousel-container">
     <ng-container *ngFor="let slide of slides">
-      <div *ngIf="slide.id == slideIndex">
-        <img [src]="slide.image">
-        <div class="slide-info">
-          <h2>{{slide.name}}</h2>
-          <span class="slide-desc">{{slide.description}}</span>
+      <a href="/post/{{slide.link}}">
+        <div *ngIf="slide.id == slideIndex">
+          <img [src]="slide.image">
+          <div class="slide-info">
+            <h2>{{slide.name}}</h2>
+            <span class="slide-desc">{{slide.description}}</span>
+          </div>
         </div>
-      </div>
+      </a>
     </ng-container>
     <a class="prev" (click)="plusSlides(-1)">&#10094;</a>
     <a class="next" (click)="plusSlides(1)">&#10095;</a>

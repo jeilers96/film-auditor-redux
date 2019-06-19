@@ -22,7 +22,9 @@ export class PostComponent implements OnInit {
     this.subscription = this.route.params.subscribe(params => {
       this.post = './assets/blog/' + params['id'] + '.md';
       this.http.get<any[]>('../assets/blogs.json').subscribe(data => {
-        this.recommended = data.reverse().filter(x => x.id !== params['id']).slice(0, 2);
+        this.recommended = data.filter(x => x.id !== params['id'] && x.id !== 'my-rating-system')
+                                .sort(() => Math.random() - 0.5)
+                                .splice(0, 2);
         this.recommended.push(data.filter(x => x.id === 'my-rating-system')[0]);
         this.postData = data.filter(x => x.id === params['id'])[0];
       });

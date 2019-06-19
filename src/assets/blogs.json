@@ -132,6 +132,20 @@
         "date": "January 27, 2019"
     },
     {
+        "id": "my-top-10-of-2018",
+        "name": "My Top 10 of 2018",
+        "image": "https://image.tmdb.org/t/p/original/lQaT3rVXshsNNMhGFL8XJEZK51V.jpg",
+        "description": "A list of my personal favorite films from 2018.",
+        "date": "February 1, 2019"
+    },
+    {
+        "id": "my-bottom-5-of-2018",
+        "name": "My Bottom 5 of 2018",
+        "image": "https://image.tmdb.org/t/p/original/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg",
+        "description": "These are the films I wish I would have skipped in 2018.",
+        "date": "February 1, 2019"
+    },
+    {
         "id": "91st-academy-awards-picks",
         "name": "My Picks For the 91st Academy Awards",
         "image": "https://image.tmdb.org/t/p/original/3mkFhtUjBMWF4FHi6c1XrYWjV5z.jpg",
@@ -144,5 +158,19 @@
         "image": "https://image.tmdb.org/t/p/original/jNUCddkM1fjYcFIcEwFjc7s2H4V.jpg",
         "description": "I was very excited to see Jordan Peele's sophomore film, but did it live up to my expectations.",
         "date": "March 21, 2019"
+    },
+    {
+        "id": "avengers-endgame-review",
+        "name": "Avengers Endgame Review",
+        "image": "https://image.tmdb.org/t/p/original/9wXPKruA6bWYk2co5ix6fH59Qr8.jpg",
+        "description": "A spoiler free review for one of the most anticipated films in 2019.",
+        "date": "April 28, 2019"
+    },
+    {
+        "id": "my-top-5-most-anticipated-films-of-summer-2019",
+        "name": "My 5 Most Anticipated Films of Summer 2019",
+        "image": "https://image.tmdb.org/t/p/original/8yE6wv1l570zWyh6zmkFxysw3Kc.jpg",
+        "description": "These are the films I'm most excited for this summer.",
+        "date": "May 12, 2019"
     }
 ]

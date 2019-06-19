@@ -26,4 +26,4 @@ The best part about Loving Vincent was the animation. The fact that every frame 
 
 How I watched it: In Theatres
 
-Those were the Oscar nominated films I watched in the last two weeks. I hope you enjoyed reading my opinions, and I would love to hear your own. Please visit the [contact page](/contact) to send me a message on what you thought of these films if you want to discuss! Please remember to read next weeks to keep up with my progress. Thanks for reading!
+Those were the Oscar nominated films I watched in the last two weeks. Please remember to read next weeks to keep up with my progress. Thanks for reading!
