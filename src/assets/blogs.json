@@ -132,8 +132,8 @@
         "date": "January 27, 2019"
     },
     {
-        "id": "my-top-10-of-2018",
-        "name": "My Top 10 of 2018",
+        "id": "my-top-5-of-2018",
+        "name": "My Top 5 of 2018",
         "image": "https://image.tmdb.org/t/p/original/lQaT3rVXshsNNMhGFL8XJEZK51V.jpg",
         "description": "A list of my personal favorite films from 2018.",
         "date": "February 1, 2019"
