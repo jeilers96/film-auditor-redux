@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+/film-auditor-redux
 
 # dependencies
 /node_modules
