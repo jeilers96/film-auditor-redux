@@ -1,4 +1,4 @@
-<div class="main-container">
+<div class="main-container" *ngIf="!loading">
   <div class="top-container">
     <header>
       <img class="logo" src="assets/img/logo.png">
@@ -14,3 +14,6 @@
   </main>
 </div>
 <footer>Created By: <a href="http://josheilers.com/" target="_blank">Josh Eilers</a> <span class="divider">·</span> film data: <a href="http://themoviedb.org/" target="_blank">TMDb</a></footer>
+<div *ngIf="loading">
+  loading
+</div>
