@@ -1,0 +1,14 @@
+First Man is a technical wonder. The first thing that stands out is the sound of this film. Justin Hurwitz again does a fantastic job creating a score that fits the mood and emotions of what is captured on screen. Not only is the score killer, but the sound design/editing is phenomenal. The sound (or lack of it) during some of the space scenes did a great job of heightening the suspense when something went wrong and exaggerating the sense of awe felt when viewing space. The sound is also paired with some breathtaking cinematography. It is obvious that a lot of time went into planning the shots for this film. Every shadow and reflection feels deliberate. Many have complained about the use of close-ups and shaky cam, and even though I can agree that they were used a little heavy-handedly, I think they were used deliberately to give a certain feeling of anxiety and uncomfortableness that Neil himself felt when piloting a rocket.
+
+The film also has some great performances. Ryan Gosling and Claire Foy do a great job of displaying emotion, showing not telling how they feel. Claire Foy in particular does a fantastic job as Janet Shearon.
+
+As for the story, First Man tells Neil's untold personal side of going to the moon and his life around that time. The story was unique in that it humanized Neil Armstrong. When you think of Neil Armstrong, you think of a historical icon and not a father, a husband, a friend, a man. Throughout the film, you witness Neil being all of these things along with an iconic astronaut. This allows the viewer to put themselves into Neil's shoes. Neil feels anxious, sad, and scared just like any of us. Neil's relationship with his wife, his kids, and his co-workers are all explored to some degree, giving us the opportunity to see Neil in a different light. Of course, this is only a portion of the film; the other plot points that deal with the actual journey to the moon are very interesting as well. One thing that this portion of the film demonstrates well is the level of technology used to make the trip to the moon. In hindsight, the technology used to communicate and control the space shuttle wasn't advanced, and this film demonstrates many of the technical issues they had with completing this monumental task. This allowed for some great suspenseful scenes in space. With the combination of some great space sequences and the personal relationships of Neil Armstrong, the pacing of this film feels consistent. Overall, I would highly recommend this film. ★★★★½
+
+### The Good ###
+* Beautiful cinematography
+* Fantastic sound design/editing
+* Great performance by Claire Foy
+* Shows the personal side of Neil’s experience
+
+### The Bad ###
+* Shaky cam became a bit much at some points

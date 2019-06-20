@@ -1,0 +1,7 @@
+Oh god, here we go again… Mama Mia! Here We Go Again makes many of the same mistakes the original film does, including a paper-thin plot, a script that barely connects the music to the story, and one-dimensional characters.
+
+The script is by far the worst part of the film, being lazy and contradicting itself multiple times. Normally, a sequel is supposed to add something new to the story or expand on its characters. Instead, the film delves into Donna's backstory, a story we already heard in the original film. Of course, we see the three relationships Donna has with Sam, Bill, and Harry, but all seem rushed and generic. Their storylines also fail to add any detail that isn't covered in the original Mama Mia! The relationships boil down to Donna knowing each man for about a day, sleeping with them, and then never seeing them again. There is nothing new about the relationships that we did not know. No cute surprises or subverting of expectations, just the same old story we heard from Donna and her friends in the original. This film is much more of a sing-along than an actual movie. This is why I would only recommend this film to an ABBA fan that will simply enjoy singing along and not care about the plot. If you are looking for more than an ABBA sing-along, look somewhere else.
+
+The only thing I enjoyed about this film was the end credits, not only because it was the best-choreographed sequence in the entire movie, but because the film was finally over.
+
+Oh, I also enjoyed the Fat Bastard Cameo. It was a little out of place, but still hilarious. ★½
