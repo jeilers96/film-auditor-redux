@@ -2,7 +2,7 @@ Quentin Tarantino's 9th film, Once Upon a Time in Hollywood has a much different
 
 On a technical level, this film is far above most Hollywood blockbusters. You can feel the artistry behind the camera. Instead of green screen sets and backgrounds, the sets are actually constructed, which give a much dirtier and lived in feel to the location. The best sets are the streets of Hollywood. I think I could watch Brad Pitt drive around those streets for hours. The amount of detail that went into all of the sets is astonishing and I'd hope to see this film be nominated for best set design. Not only was the set design great, but the shot composition, acting, and costume design was all top notch. Margot Robbie was perfectly cast as Sharon Tate, and Brad Pitt and Leo's chemistry was excellent. 
 
-Overall, I was surprised at how much I enjoyed this. It had some great moments of comedy, suspense, and drama. The characters are wonderfully crafted, and the film culminates to an exciting 3rd act. I think I have to rewatch a few of Tarantino's other movies, but this might be one of my favorites. I plan on seeing this one again very soon. 
+Overall, I was surprised at how much I enjoyed this. It had some great moments of comedy, suspense, and drama. The characters are wonderfully crafted, and the film culminates to an exciting 3rd act. I think I have to rewatch a few of Tarantino's other movies, but this might be one of my favorites. I plan on seeing this one again very soon. ★★★★
 
 ### The Good ###
 * Character Development
