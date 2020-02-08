@@ -186,5 +186,12 @@
         "image": "https://image.tmdb.org/t/p/original/daopuCgMszXMpibP9Ycb5X0Ee8z.jpg",
         "description": "A fully Original and Unique movie, Ad Astra is one of the better film-going experiences of 2019.",
         "date": "September 24, 2019"
+    },
+    {
+        "id": "92nd-academy-awards-picks",
+        "name": "My Picks for the 92nd Acadamy Awards",
+        "image": "https://image.tmdb.org/t/p/original/ds9GKAMhxv5AbprmZ2xCpK8FiEG.jpg",
+        "description": "I discuss who I think should and will win at the 92nd Academy Awards.",
+        "date": "February 7, 2020"
     }
 ]
