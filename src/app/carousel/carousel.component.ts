@@ -25,7 +25,7 @@ import { Observable } from 'rxjs';
 })
 export class CarouselComponent implements OnInit {
 
-  slides:  any;
+  slides: any;
   slideIndex: number;
 
   constructor(private http: HttpClient) { }
@@ -41,9 +41,9 @@ export class CarouselComponent implements OnInit {
   plusSlides(slideVariation: number) {
     const slideMod = slideVariation + this.slideIndex;
 
-    if(slideMod < 1) {
+    if (slideMod < 1) {
       this.slideIndex = this.slides.length;
-    } else if(slideMod > this.slides.length) {
+    } else if (slideMod > this.slides.length) {
       this.slideIndex = 1;
     } else {
       this.slideIndex = slideVariation + this.slideIndex;
