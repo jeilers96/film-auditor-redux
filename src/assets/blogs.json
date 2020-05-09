@@ -193,5 +193,20 @@
         "image": "https://image.tmdb.org/t/p/original/ds9GKAMhxv5AbprmZ2xCpK8FiEG.jpg",
         "description": "I discuss who I think should and will win at the 92nd Academy Awards.",
         "date": "February 7, 2020"
+    },
+    {
+        "id": "my-top-5-of-2019",
+        "name": "My Top 5 of 2019",
+        "image": "https://image.tmdb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "description": "A list of my personal favorite films from 2019.",
+        "date": "May 9, 2020"
+    },
+    {
+        "id": "my-bottom-5-of-2019",
+        "name": "My Bottom 5 of 2019",
+        "image": "https://image.tmdb.org/t/p/original/2XWhIg0aWX83ntm5Oq8w15vfB9c.jpg",
+        "description": "These are the films I wish I never saw in 2019.",
+        "date": "May 9, 2020"
     }
+
 ]
