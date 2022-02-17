@@ -24,7 +24,7 @@ import { MarkdownModule } from 'ngx-markdown';
     HttpClientModule,
     CommonModule,
     RouterModule.forChild([
-      {path: 'post', loadChildren: './post/post.module#PostModule'}
+      {path: 'post', loadChildren: () => import('./post/post.module').then(m => m.PostModule)}
     ]),
     MarkdownModule.forRoot()
   ],
