@@ -1,23 +1,23 @@
 [
     {
         "id": 1,
+        "name": "My Picks for the 97th Acadamy Awards",
+        "image": "https://image.tmdb.org/t/p/original/a46L587688xUVIS36gTf0brTXFd.jpg",
+        "description": "I discuss who I think should and will win at the 97th Academy Awards.",
+        "link": "97th-academy-awards-picks"
+    },
+    {
+        "id": 2,
         "name": "My Picks for the 94th Acadamy Awards",
         "image": "https://www.themoviedb.org/t/p/original/6mB3UjP1vPtMMETbjS9RLePcmMJ.jpg",
         "description": "I discuss who I think should and will win at the 94th Academy Awards.",
         "link": "94th-academy-awards-picks"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "My Picks for the 93rd Acadamy Awards",
         "image": "https://www.themoviedb.org/t/p/original/4CpxTIDXYgaHnJ8wjU5vxhQuZQ5.jpg",
         "description": "I discuss who I think should and will win at the 93rd Academy Awards.",
         "link": "93rd-academy-awards-picks"
-    },
-    {
-        "id": 3,
-        "name": "My Picks for the 92nd Acadamy Awards",
-        "image": "https://image.tmdb.org/t/p/original/ds9GKAMhxv5AbprmZ2xCpK8FiEG.jpg",
-        "description": "I discuss who I think should and will win at the 92nd Academy Awards.",
-        "link": "92nd-academy-awards-picks"
     }
 ]
